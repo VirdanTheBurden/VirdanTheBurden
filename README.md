@@ -7,8 +7,8 @@
 ## The Funny Github Stats, because everyone has one
 
 ### Overview & Most Used Languages
-![overview](https://raw.githubusercontent.com/VirdanTheBurden/VirdanTheBurden/master/generated/overview.svg?#gh-dark-mode-only)
-![languages](https://raw.githubusercontent.com/VirdanTheBurden/VirdanTheBurden/master/generated/languages.svg?#gh-dark-mode-only)
+![overview](https://raw.githubusercontent.com/VirdanTheBurden/VirdanTheBurden/main/generated/overview.svg?#gh-dark-mode-only)
+![languages](https://raw.githubusercontent.com/VirdanTheBurden/VirdanTheBurden/main/generated/languages.svg?#gh-dark-mode-only)
 
 ### Github Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=VirdanTheBurden&theme=onedark&column=-1)
+![trophies](https://github-profile-trophy.vercel.app/?username=VirdanTheBurden&theme=onedark&column=-1&no-bg=true&no-frame=true)
